@@ -1,0 +1,14 @@
+{
+  "name": "lab07-nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "Lab 07 exercises: Node.js modules, file handling, and Book Management REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "calculator": "node app.js",
+    "employees": "node employees.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

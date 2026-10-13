@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Ali Khan", "department": "IT" },
+  { "id": 2, "name": "Sara Ahmed", "department": "HR" },
+  { "id": 3, "name": "Ahmed Raza", "department": "Finance" },
+  { "id": 4, "name": "Ayesha Noor", "department": "Marketing" },
+  { "id": 5, "name": "Usman Tariq", "department": "IT" }
+]

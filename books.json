@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Programming",
+    "author": "John Smith",
+    "price": 1500
+  },
+  {
+    "id": 2,
+    "title": "Learning JavaScript",
+    "author": "Jane Doe",
+    "price": 2200
+  },
+  {
+    "id": 3,
+    "title": "Node.js Basics",
+    "author": "David Miller",
+    "price": 1800
+  }
+]
